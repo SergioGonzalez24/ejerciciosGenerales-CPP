@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = /Users/sergiogonzalez/Desktop/CPP/POINTER/cmake-build-debug/
+cmake_ninja_workdir = /Users/sergiogonzalez/Documents/GitHub/ejerciciosGenerales-CPP/POINTER/cmake-build-debug/
 # =============================================================================
 # Object build statements for EXECUTABLE target POINTER
 
@@ -49,7 +49,7 @@ cmake_ninja_workdir = /Users/sergiogonzalez/Desktop/CPP/POINTER/cmake-build-debu
 
 build cmake_object_order_depends_target_POINTER: phony || CMakeFiles/POINTER.dir
 
-build CMakeFiles/POINTER.dir/main.cpp.o: CXX_COMPILER__POINTER_Debug /Users/sergiogonzalez/Desktop/CPP/POINTER/main.cpp || cmake_object_order_depends_target_POINTER
+build CMakeFiles/POINTER.dir/main.cpp.o: CXX_COMPILER__POINTER_Debug /Users/sergiogonzalez/Documents/GitHub/ejerciciosGenerales-CPP/POINTER/main.cpp || cmake_object_order_depends_target_POINTER
   DEP_FILE = CMakeFiles/POINTER.dir/main.cpp.o.d
   FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/POINTER.dir
@@ -79,7 +79,7 @@ build POINTER: CXX_EXECUTABLE_LINKER__POINTER_Debug CMakeFiles/POINTER.dir/main.
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /Users/sergiogonzalez/Desktop/CPP/POINTER/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+  COMMAND = cd /Users/sergiogonzalez/Documents/GitHub/ejerciciosGenerales-CPP/POINTER/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -90,7 +90,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /Users/sergiogonzalez/Desktop/CPP/POINTER/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S/Users/sergiogonzalez/Desktop/CPP/POINTER -B/Users/sergiogonzalez/Desktop/CPP/POINTER/cmake-build-debug
+  COMMAND = cd /Users/sergiogonzalez/Documents/GitHub/ejerciciosGenerales-CPP/POINTER/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S/Users/sergiogonzalez/Documents/GitHub/ejerciciosGenerales-CPP/POINTER -B/Users/sergiogonzalez/Documents/GitHub/ejerciciosGenerales-CPP/POINTER/cmake-build-debug
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -106,7 +106,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 
 #############################################
-# Folder: /Users/sergiogonzalez/Desktop/CPP/POINTER/cmake-build-debug
+# Folder: /Users/sergiogonzalez/Documents/GitHub/ejerciciosGenerales-CPP/POINTER/cmake-build-debug
 
 build all: phony POINTER
 

@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/sergiogonzalez/Desktop/CPP/POINTER/cmake-build-debug"
+			"value" : "/Users/sergiogonzalez/Documents/GitHub/ejerciciosGenerales-CPP/POINTER/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -515,7 +515,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/sergiogonzalez/Desktop/CPP/POINTER"
+			"value" : "/Users/sergiogonzalez/Documents/GitHub/ejerciciosGenerales-CPP/POINTER"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1087,7 +1087,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/sergiogonzalez/Desktop/CPP/POINTER/cmake-build-debug"
+			"value" : "/Users/sergiogonzalez/Documents/GitHub/ejerciciosGenerales-CPP/POINTER/cmake-build-debug"
 		},
 		{
 			"name" : "POINTER_IS_TOP_LEVEL",
@@ -1111,7 +1111,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/sergiogonzalez/Desktop/CPP/POINTER"
+			"value" : "/Users/sergiogonzalez/Documents/GitHub/ejerciciosGenerales-CPP/POINTER"
 		}
 	],
 	"kind" : "cache",

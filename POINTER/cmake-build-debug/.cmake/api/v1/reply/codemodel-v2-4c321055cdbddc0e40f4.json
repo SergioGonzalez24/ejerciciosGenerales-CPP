@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/sergiogonzalez/Desktop/CPP/POINTER/cmake-build-debug",
-		"source" : "/Users/sergiogonzalez/Desktop/CPP/POINTER"
+		"build" : "/Users/sergiogonzalez/Documents/GitHub/ejerciciosGenerales-CPP/POINTER/cmake-build-debug",
+		"source" : "/Users/sergiogonzalez/Documents/GitHub/ejerciciosGenerales-CPP/POINTER"
 	},
 	"version" : 
 	{
