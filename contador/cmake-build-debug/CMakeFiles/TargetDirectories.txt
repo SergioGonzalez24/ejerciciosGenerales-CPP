@@ -1,0 +1,3 @@
+/Users/sergiogonzalez/Desktop/CPP/contador/cmake-build-debug/CMakeFiles/contador.dir
+/Users/sergiogonzalez/Desktop/CPP/contador/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sergiogonzalez/Desktop/CPP/contador/cmake-build-debug/CMakeFiles/rebuild_cache.dir
