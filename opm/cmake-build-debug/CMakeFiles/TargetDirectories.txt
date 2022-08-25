@@ -1,0 +1,3 @@
+/Users/sergiogonzalez/Documents/GitHub/ejerciciosGenerales-CPP/opm/cmake-build-debug/CMakeFiles/opm.dir
+/Users/sergiogonzalez/Documents/GitHub/ejerciciosGenerales-CPP/opm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sergiogonzalez/Documents/GitHub/ejerciciosGenerales-CPP/opm/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/sergiogonzalez/Documents/GitHub/ejerciciosGenerales-CPP/OpenMP/build",
+  "command": "/usr/local/bin/g++-11    -std=c++11 -fopenmp -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -o CMakeFiles/OpenMP.dir/main.cpp.o -c /Users/sergiogonzalez/Documents/GitHub/ejerciciosGenerales-CPP/OpenMP/main.cpp",
+  "file": "/Users/sergiogonzalez/Documents/GitHub/ejerciciosGenerales-CPP/OpenMP/main.cpp"
+}
+]
